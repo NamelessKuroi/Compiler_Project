@@ -1,0 +1,22 @@
+AST                               
+ ASTPrograma		 			
+  ASTInstruction      			 
+   ASTDeclaration	        	     
+   ASTAssignation           	  
+    ASTInitInt               	   
+    ASTInitRank              	   
+    ASTInitRankExp           	   
+   ASTPrint                 	  
+ ASTExpRank
+  ASTSymbol
+   ASTIntValue
+   ASTIndentifier
+    ASTIndentifierDeclaration
+    ASTIndentifierReference
+    ASTIndentifierValue
+  ASTOperatorBinary
+    ASTUnion
+    ASTInterception
+    ASTDifference
+   
+     
